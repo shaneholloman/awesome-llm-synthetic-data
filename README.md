@@ -88,8 +88,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - [**Distilling LLMs' Decomposition Abilities into Compact Language Models**](https://arxiv.org/abs/2402.01812) *Denis Tarasov, Kumar Shridhar.* AutoRL@ICML 2024.
 
 ### 3.2. Code Generation
-- [**DyCodeEval: Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination**](https://arxiv.org/pdf/2503.04149) *Simin Chen, Pranav Pusarla, Baishakhi Ray* ICML 2025.
-- [**PPM: Automated Generation of Diverse Programming Problems for Benchmarking Code Generation Models**](https://arxiv.org/pdf/2401.15545) *Simin Chen, Xiaoning Feng, XIaohong Han, Cong Liu, Wei Yang* FSE 2024
+- [**DyCodeEval: Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination**](https://arxiv.org/pdf/2503.04149) *Simin Chen, Pranav Pusarla, Baishakhi Ray.* ICML 2025.
+- [**PPM: Automated Generation of Diverse Programming Problems for Benchmarking Code Generation Models**](https://arxiv.org/pdf/2401.15545) *Simin Chen, Xiaoning Feng, XIaohong Han, Cong Liu, Wei Yang.* FSE 2024
 - [**CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning**](https://arxiv.org/abs/2207.01780) *Hung Le, Yue Wang, Akhilesh Deepak Gotmare, Silvio Savarese, Steven C.H. Hoi.*  NeurIPS 2022.
 - [**Language Models Can Teach Themselves to Program Better**](https://arxiv.org/abs/2207.14502) *Patrick Haluptzok, Matthew Bowers, Adam Tauman Kalai.* ICLR 2023.
 - [**InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback**](https://arxiv.org/abs/2306.14898) *John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao.* Arxiv 2023.
