@@ -39,7 +39,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   - [6. Blogs](#6-blogs)
 
 ### 1. Surveys
-
+- [**Recent Advances in Large Langauge Model Benchmarks against Data Contamination: From Static to Dynamic Evaluation**](https://arxiv.org/abs/2502.17521) *Simin Chen, Yiming Chen, Zexin Li, Yifan Jiang, Zhongwei Wan, Yixin He, Dezhi Ran, Tianle Gu, Haizhou Li, Tao Xie, Baishakhi Ray.* Preprint'25
 - [**A Survey on Bridging VLMs and Synthetic Data**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174741263.32891073/v1) *Mohammad Ghiasvand Mohammadkhani, Saeedeh Momtazi, Hamid Beigy.* TechRxiv 2025.
 - [**Best Practices and Lessons Learned on Synthetic Data for Language Models**](https://arxiv.org/abs/2404.07503) *Ruibo Liu, Jerry Wei, Fangyu Liu, Chenglei Si, Yanzhe Zhang, Jinmeng Rao, Steven Zheng, Daiyi Peng, Diyi Yang, Denny Zhou, Andrew M. Dai.* COLM 2024.
 - [**On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey**](https://arxiv.org/abs/2406.15126) *Lin Long, Rui Wang, Ruixuan Xiao, Junbo Zhao, Xiao Ding, Gang Chen, Haobo Wang.* Arxiv 2024.
@@ -88,6 +88,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - [**Distilling LLMs' Decomposition Abilities into Compact Language Models**](https://arxiv.org/abs/2402.01812) *Denis Tarasov, Kumar Shridhar.* AutoRL@ICML 2024.
 
 ### 3.2. Code Generation
+- [**DyCodeEval: Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination**](https://arxiv.org/pdf/2503.04149) *Simin Chen, Pranav Pusarla, Baishakhi Ray* ICML 2025.
+- [**PPM: Automated Generation of Diverse Programming Problems for Benchmarking Code Generation Models**](https://arxiv.org/pdf/2401.15545) *
+Simin Chen, Xiaoning Feng, XIaohong Han, Cong Liu, Wei Yang* FSE 2024
 - [**CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning**](https://arxiv.org/abs/2207.01780) *Hung Le, Yue Wang, Akhilesh Deepak Gotmare, Silvio Savarese, Steven C.H. Hoi.*  NeurIPS 2022.
 - [**Language Models Can Teach Themselves to Program Better**](https://arxiv.org/abs/2207.14502) *Patrick Haluptzok, Matthew Bowers, Adam Tauman Kalai.* ICLR 2023.
 - [**InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback**](https://arxiv.org/abs/2306.14898) *John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao.* Arxiv 2023.
